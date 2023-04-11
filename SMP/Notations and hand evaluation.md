@@ -12,6 +12,7 @@ INV : Invite
 GF : Game forcing
 NF : Non-forcing
 F1 : Forcing 1 round
+SPPT : Support, will indicate number before it to show how many is needed
 ```
 ## Hand evaluation
 We are using the traditional HCP system, where A = 4; K = 3; Q = 2 and J = 1. 
