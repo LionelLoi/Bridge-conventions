@@ -7,6 +7,7 @@ m : Minor
 SPL : Splinter, short in the bidded or ambiguous suit
 INV : Invite
 GF : Game forcing
+NF : Non-forcing
 ```
 ## Hand evaluation
 We are using the traditional HCP system, where A = 4; K = 3; Q = 2 and J = 1. 
