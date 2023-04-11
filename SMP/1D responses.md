@@ -7,10 +7,10 @@ Do note that any max hand shld be unbalanced.
 ```
 1M : 4M, does not necessarily deny 4oM, F1
 1NT : 7-11 NF, usually to play, can be 0-6 with clubs also
-2C : 11+, can be long♣️ or mm, F1
-2D : ! 11+, can be long♦️ or mm, F1
+2C : INV+, can be long♣️ or mm, F1
+2D : ! INV+, can be long♦️ or mm, F1
 2H : RFlan, showing 5♠️4♥️ exactly, less than INV, NF
-2S : RFLan, showing 5♠️4♥️ exactly, INV+ 
+2S : RFLan, showing 5♠️4♥️ exactly, INV+, F1
 2NT : INV, NF
 3NT : To play
 3♣️+ : Preemptive
@@ -19,7 +19,7 @@ Do note that any max hand shld be unbalanced.
 ## Responses to 1♦️ - 1M
 When auction goes into this sequence, bidding becomes much natural and easy. There are various gadgets such as 
 [XYNT](https://www.bridgebum.com/two_way_checkback.php), XYZ(Same as XYNT except the third bid is 1oM) and 
-[Fourth suit forcing](https://www.bridgebum.com/fourth_suit_forcing.php)
+[Fourth suit forcing](https://www.bridgebum.com/fourth_suit_forcing.php) (for 1♦️ - 1M - 2m)
 to determine whether there is a fit and establish invite or game force. Here is the general idea:
 ```
 1NT : Min, BAL, no 4SPPT, cannot be short in partner suit
@@ -30,3 +30,24 @@ to determine whether there is a fit and establish invite or game force. Here is 
 3X : Max, 5+♦️ and 5+X
 3M : Max, 4SPPT
 ```
+
+## 1♦️ - 1NT 
+Many players are happy to see this sequence on the table, because this means that the auction is almost over, especially if opener was 11-13 balanced. 
+However, if opener was 13-15 with minors or long diamond, opener need to bid on and search for a better part score or even minor game.
+
+## 1♦ - 2♣️
+This is the most artificial part in 1♦️ opening, even though it is rarely used, it is still a must-have to find minor game or slams.
+```
+2♦️ : 5+♦️, deny 4SPPT, unbalanced
+> 
+2♥️ : ! Min, BAL
+2S : ! Ambiguous SPL, 4+ SPPT 
+2NT/3NT : 4441 Min/Max (Not short diamonds)
+3♣️ : ! 3SPPT, 5+om , GF
+3♦️ : long♦️, GF
+3M : 6+♦️5M, GF
+```
+
+## 1♦️ - 2♦️ 
+
+
