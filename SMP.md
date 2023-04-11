@@ -1,5 +1,5 @@
 ## General bidding style
-For beginners sound openings and preempts are recommended; More advanced players can experiment with more aggresive preempts. 
+For beginners sound openings and preempts are recommended; More advanced players can experiment with more aggresive preempts and lighter openings. 
 
 ## Notations
 ```
