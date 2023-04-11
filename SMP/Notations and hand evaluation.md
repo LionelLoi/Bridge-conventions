@@ -6,6 +6,7 @@ M : Major
 oM : Other major
 m : Minor
 om : Other minor
+mm : Minors
 SPL : Splinter, short in the bidded or ambiguous suit
 INV : Invite
 GF : Game forcing
