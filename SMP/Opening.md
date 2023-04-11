@@ -1,13 +1,6 @@
 ## General bidding style
 For beginners sound openings and preempts are recommended; More advanced players can experiment with more aggresive preempts and lighter openings. 
 
-## Notations
-```
-! : Alert, artificial or unusual
-BAL : Balance, depending on sequence
-M : Major
-m : Minor 
-```
 ## Opening bids
 ```
 1♣️ : ! 16+, any hand
