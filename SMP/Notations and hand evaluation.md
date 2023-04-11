@@ -13,7 +13,7 @@ We are using the traditional HCP system, where A = 4; K = 3; Q = 2 and J = 1.
 
 For NT contracts, hand shapes are less important whereas whether a suit is stopped is far more important. 
 Examples of stoppers: Kx, Qxx, J10xx. When opponents have intefered the auction by showing various suits, 
-it is important to have stopper in those suits before bidding 3NT. I included 5M332 hands and 6m322 hands in NT openings as balance as opening NT in 
+it is important to have stopper in those suits before bidding 3NT. I included 5M332 hands and 6m322 hands in NT openings as balance because opening NT in 
 those cases reflects your hand better to your partner, and there is rarely harm if you are playing in IMPs.
 
 For suited contracts, shapey hands should be more frequently upgraded and balance hand should be downgraded.
