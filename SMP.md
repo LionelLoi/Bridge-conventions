@@ -6,7 +6,7 @@ For beginners sound openings and preempts are recommended; More advanced players
 ! : Alert, artificial or unusual
 BAL : Balance, depending on sequence
 M : Major
-m : Minor
+m : Minor 
 ```
 ## Opening bids
 ```
