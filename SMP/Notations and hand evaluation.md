@@ -21,5 +21,5 @@ For example, player can add 3 distributional points to his/her hand for a void, 
 added to your hand in order to open 1C, as HCP is a better evaluation tool to determine whether the partnership has a game. Especially when the partnership
 has misfit hands, if the stronger hand opened 1C with less than 16 HCP and partner GF with less than 8, 3NT is unlikely to make. 
 
-Edge cases: I recommend a hand with 4♠️4♥️5♦️ and void club with 14 HCP to open 1♦️. Firstly, you convey a better range of strength of your hand to your partner and on a
+Edge cases: I recommend a hand with 4♠️4♥️5♦️ and void club with 14 HCP to open 1♦️ (and not 1♣️ based on distribution). Firstly, you convey a better range of strength of your hand to your partner and on a
 misfit hand, partner will not go 3NT with less than 24 HCP in total. Secondly, 1♦️ has a better structure for finding 4-4 major fit.
