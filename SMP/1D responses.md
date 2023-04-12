@@ -51,21 +51,26 @@ However, if opener was 13-15 with minors or long diamond, opener need to bid on 
 This is the most artificial part in 1♦️ opening, even though it is rarely used, it is still a must-have to find minor game or slams.
 
 2♦️ : 5+♦️, deny 4SPPT, unbalanced
-    2M : 4M, GF
-    3m : NF, preferred m
-    else : Nat, GF
+> 2M : 4M, GF
+
+> 3m : NF, preferred m
+
+> else : Nat, GF
     
 2♥️ : ! Min, BAL
     
 2S : ! Ambiguous SPL, 4+ SPPT, GF (Not short diamonds)
-    2NT : ask for SPL (opener shows ♣️/♦️ as ♥️/♠️), afterwards start cuebidding
+
+> 2NT : ask for SPL (opener shows ♣️/♦️ as ♥️/♠️), afterwards start cuebidding
     
 2NT/3NT : 4441 Min/Max 
 
 3♣️ : ! 3SPPT, 5+om, one 4M, GF
-    3♦️ : ask for 4M
+
+> 3♦️ : ask for 4M
     
 3♦️ : long♦️, GF
+
 3M : 6+♦️5M, GF
 
 
