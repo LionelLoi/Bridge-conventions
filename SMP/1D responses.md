@@ -57,7 +57,14 @@ This is the most artificial part in 1♦️ opening, even though it is rarely us
 
 > else : Nat, GF
     
-2♥️ : ! Min, BAL
+2♥️ : ! Min, BAL, can have 4SPPT
+> 2♠️ : forcing partner to 2NT, desire to play in NT
+> > 2NT : forced
+> > > 3m : GF, slam interest
+> > > 3M : 6♣️4M, GF
+> > > 3NT : force partner to declare 3NT(lmao)
+
+> 2NT : Slam interest, Balanced, asking for ♣️4SPPT
     
 2S : ! Ambiguous SPL, 4+ SPPT, GF (Not short diamonds)
 
